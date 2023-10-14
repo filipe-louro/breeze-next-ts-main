@@ -2,3 +2,5 @@
 .env.local
 yarn-error.log
 npm-debug.log
+.next
+.idea
